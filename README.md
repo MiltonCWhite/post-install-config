@@ -73,10 +73,6 @@
 <h3 align="center">Adding Agents (Staff Members)</h3>
 <br />
 <p>Navigate to: Admin Panel → Agents → Add New.</p>
-<p>Agent Example: Rachel Jackson</p>
-<p>
-  <img src="https://i.imgur.com/ujpOdKM.png" alt="Jane Doe Agent Setup" />
-</p>
 <p>Agent Example: John Doe</p>
 <p>
   <img src="https://i.imgur.com/NcCP0v9.png" alt="John Doe Profile" />
