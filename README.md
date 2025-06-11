@@ -3,11 +3,11 @@
 <h2>Tools and Platforms Used</h2>
 
 <ul>
-Microsoft Azure (Virtual Machines/Compute)
+<li>Microsoft Azure (Virtual Machines/Compute)</li>
 
-Remote Desktop Protocol (RDP)
+<li>Remote Desktop Protocol (RDP)</li>
 
-Internet Information Services (IIS) 
+<li>Internet Information Services (IIS) </li>
 </ul>
 
 <h2>Operating System</h2>
