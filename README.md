@@ -72,6 +72,11 @@
 
 <h3 align="center">Adding Agents (Staff Members)</h3>
 <br />
+<p>
+  Jane Doe:
+</p>
+  <img src="https://i.imgur.com/ujpOdKM.png" height="75%" width="100%" alt="agent one access"/>
+<p>
 <p>Navigate to: Admin Panel → Agents → Add New.</p>
 <p>Agent Example: John Doe</p>
 <p>
