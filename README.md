@@ -73,7 +73,7 @@
 <h3 align="center">Adding Agents (Staff Members)</h3>
 <br />
 <p>Navigate to: Admin Panel → Agents → Add New.</p>
-<p>Agent Example: Jane Doe</p>
+<p>Agent Example: Rachel Jackson</p>
 <p>
   <img src="https://i.imgur.com/ujpOdKM.png" alt="Jane Doe Agent Setup" />
 </p>
@@ -90,7 +90,7 @@
 <p>
   <img src="https://i.imgur.com/vbPd3uK.png" alt="User Registration" />
 </p>
-<p>Repeat similar steps to create: Karen User</p>
+<p>Repeat similar steps to create: Laura User</p>
 
 <h3 align="center">Setting Up SLA Plans</h3>
 <br />
