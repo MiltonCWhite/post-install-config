@@ -39,11 +39,10 @@
 <p>Navigate to: Admin Panel → Agents → Roles.</p>
 <p>Example: Supreme Admin Role</p>
 <p>
-  <img src="https://i.imgur.com/SXpTf20.png" alt="Role Definitions" />
-  <img src="https://i.imgur.com/9fBmrZj.png" alt="Permissions" />
-  <img src="https://i.imgur.com/1sDBsuZ.png" alt="More Permissions" />
-  <img src="https://i.imgur.com/2SVt7rt.png" alt="Additional Permissions" />
-  <img src="https://i.imgur.com/vJl5MPw.png" alt="Sys Admin Setup Complete" />
+  <img src="https://github.com/user-attachments/assets/df8ea725-f2da-48c7-9382-a14afbf578b1" alt="Role Definitions" />
+  <img src="https://github.com/user-attachments/assets/6ca26bde-cc2d-4dc5-aece-8a007970a1ce" alt="Permissions" />
+  <img src="https://github.com/user-attachments/assets/bdaf86d7-746f-470d-b0b9-e4d7fc358e1e" alt="More Permissions" />
+  <img src="https://github.com/user-attachments/assets/c4010bd0-2c1d-40eb-b348-02cc9d46edae" alt="Additional Permissions" />
 </p>
 
 <h3 align="center">Setting Up Departments</h3>
