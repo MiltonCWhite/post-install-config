@@ -50,8 +50,8 @@
 <p>Navigate to: Admin Panel → Agents → Departments.</p>
 <p>Example: System Administrators Department</p>
 <p>
-  <img src="https://i.imgur.com/83gWQsO.png" alt="Department Settings" />
-  <img src="https://i.imgur.com/oGLXmQv.png" alt="Department Details" />
+  <img src="https://github.com/user-attachments/assets/a65dd56b-aa9b-4954-bef3-40168770295c" alt="Department Settings" />
+  <img src="https://github.com/user-attachments/assets/ee107682-e74f-475d-a34a-7f44257477f4" alt="Department Details" />
 </p>
 
 <h3 align="center">Creating Teams</h3>
@@ -67,7 +67,7 @@
 <p>Navigate to: Admin Panel → Settings → User Settings.</p>
 <p>Uncheck the box labeled "Require registration and login to create tickets":</p>
 <p>
-  <img src="https://i.imgur.com/QsJjOuM.png" alt="Allow Ticket Submission Without Login" />
+  <img src="https://github.com/user-attachments/assets/ffc9b0d3-a724-4e7b-be5f-fe5e4267a4fe" alt="Allow Ticket Submission Without Login" />
 </p>
 
 <h3 align="center">Adding Agents (Staff Members)</h3>
@@ -84,7 +84,7 @@
 <p>Navigate to: Admin Panel → Users → Add New.</p>
 <p>User Example: Ken User</p>
 <p>
-  <img src="https://i.imgur.com/vbPd3uK.png" alt="User Registration" />
+  <img src="https://github.com/user-attachments/assets/28670260-3661-42f6-8540-a64c8c4e88a1" alt="User Registration" />
 </p>
 <p>Repeat similar steps to create: Laura User</p>
 
@@ -98,9 +98,9 @@
   <li>Sev-C (8 hours response, business hours only)</li>
 </ul>
 <p>
-  <img src="https://i.imgur.com/6AAF3Ju.png" alt="SLA Level A" />
-  <img src="https://i.imgur.com/izcD74X.png" alt="SLA Level B" />
-  <img src="https://i.imgur.com/xKzdp7w.png" alt="SLA Level C" />
+  <img src="https://github.com/user-attachments/assets/4564f082-d645-4c09-83a0-b339b67c7110" alt="SLA Level A" />
+  <img src="https://github.com/user-attachments/assets/4a148993-156f-4393-8793-ba0344e9981e" alt="SLA Level B" />
+  <img src="https://github.com/user-attachments/assets/c9525cb1-e63a-4d9c-8efb-e897faffb336" alt="SLA Level C" />
 </p>
 
 <h3 align="center">Creating Help Topics</h3>
